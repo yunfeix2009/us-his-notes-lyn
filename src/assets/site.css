@@ -571,6 +571,7 @@ math {
 }
 
 .thm-definition,
+.thm-event,
 .thm-problem {
   border-left-color: var(--blue);
 }

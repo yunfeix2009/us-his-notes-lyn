@@ -112,6 +112,7 @@
 #let corollary = _wrap("Corollary", "thm-corollary", thm-fmt, counter: "Sub-Theorem", base: "Theorem")
 
 #let definition = _wrap("Definition", "thm-definition", thm-def-fmt, counter: "Theorem")
+#let event = _wrap("Event", "thm-event", thm-def-fmt, counter: "Theorem")
 #let example = _wrap("Example", "thm-example", thm-def-fmt, counter: "Theorem")
 #let problem = _wrap("Problem", "thm-problem", thm-def-fmt, counter: "Problem")
 

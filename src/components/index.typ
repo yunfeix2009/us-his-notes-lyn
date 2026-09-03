@@ -12,6 +12,7 @@
 #let corollary = _thm.corollary
 #let conjecture = _thm.conjecture
 #let definition = _thm.definition
+#let event = _thm.event
 #let problem = _thm.problem
 #let remark = _thm.remark
 #let example = _thm.example
