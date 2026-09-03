@@ -6,6 +6,8 @@
   route: "rq1",
 )
 
+#todo[discuss why the colonial governmente achieved indepedence in the us but not other places, india for example, west indies too.]
+
 This primary focus of this note is to analyze reasons that lead to the Civil War, through the grip of the growing differences on the economic differences between the North and the South. To understand the nature of the density current (underwater currents) of colonial movements to the generalizable extents, take the example that resembles the discovery of a large amount of new resources and new ways of utilizing resources for a civilization closest in the time period of the production of this text, space (resource), AI (technology), and civilization (mainly the two ideologies on Earth).
 
 Before discussing how the colonies may diverge, it also serves the purpose of understanding more trends of the colonies to analyze necessary factors that determine its rise and its destined future.

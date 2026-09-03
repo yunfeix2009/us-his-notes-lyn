@@ -5,7 +5,7 @@
 #let date = "August 2026"
 #let source-url = "https://github.com/yunfeix2009/chance-notes-ocw"
 #let abstract(render-mode) = [
-  #let _quote = quote[(Economic, Social, Political) -- (Matter, Energy, Time)]
+  #let _quote = quote[(Matter, Energy, Information) dictates (Economic, Social, Political)]
   #let _credit = []
   #if render-mode == "pdf" {
     align(center)[#_quote]
