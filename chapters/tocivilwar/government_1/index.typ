@@ -2,8 +2,8 @@
 #import "/lib.typ": *
 
 #show: docs-subchapter.with(
-  title: [5.1: First Draft of Colonial Government],
-  route: "rq2",
+  title: [[5.1] - First Draft of Central Government],
+  route: "gov1",
 )
 
 Last section analyzes the causes behind the independence of the colonial government, due to physical separation and the structural efficiency of trading between two sovereign nations compared to a mother nation commanding the colonies from afar.

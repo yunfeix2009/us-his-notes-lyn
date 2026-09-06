@@ -2,7 +2,7 @@
 #import "/lib.typ": *
 
 #show: docs-subchapter.with(
-  title: [Second Attempt on Central Government: The Constitution],
+  title: [[5.2, 5.3] - Second Attempt on Central Government: The Constitution],
   route: "gov2",
 )
 
@@ -51,3 +51,9 @@ The justification for the independence movement was partially encroaching govern
 Determination of major positions vary by the branch. Judicial branch require technicality that is not reasonable for the general ruled population to determine. Hence, the justices are mostly appointed. The executive branch is a combination of appointed and elected, with top positions indirectly elected via electorial colleges, who are directly elected by the people. The Legislative branch produces laws. To best determine laws that are the most beneficial to the people, representatives in the House are determined directly by the people, while those in the Senate are determined indirectly through the state legislature.
 
 Finally, the 2/3 rule for amendments gives a way for the Constitution to be changed, per changes in $vb(x)$.
+
+The biggest obstacle before the approval of the Constitution by state is the fear of an overpowered government that may encroach the rights of the people, as the founding convention was only held 4 years after the Revolutionary War. For reference, the Articles of Confederation was established two years before the war ended.
+
+One more point to note is the difference between the argument for the legitimacy of the government, based on appealing to the public and beautiful ideals, such as those in the Declaration of Independence, and the practical laws enforced by the government. To appeal an ideal rational, truth would be the strongest; however, to the general public, complicated techniques are used, making rhetoric a significant study.
+
+The Declaration of Independence establishes broad principles of equality, natural rights, government by consent, and the people’s right to replace governments that violate those rights, but the original Constitution did not consistently apply these ideals to everyone. Constitutional provisions such as the Three-Fifths Compromise, protection of the slave trade until 1808, and the Fugitive Slave Clause conflicted most directly with the Declaration’s claims that all people are equal and possess rights to life and liberty. Other provisions concerning habeas corpus, treason, searches, eminent domain, and due process demonstrate that individual rights could also be limited when the government believed public order or other interests required it. These contradictions reveal that the Constitution balanced individual liberty against political compromise, governmental authority, and the preservation of the new nation. Most importantly, enslaved people were excluded from many of the rights that the founding documents claimed as universal. Therefore, although the Constitution created important protections for individual rights, in its original form those protections were incomplete and did not extend equally to all people living in the United States.
