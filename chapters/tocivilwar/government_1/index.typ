@@ -18,9 +18,7 @@ Due to the choice of the mother nation, the British Empire to fight the colonies
 
 After the revolution for independence, the colonies further developed to states, as independent Greek city-state-like entities that are no longer subjected to a mother nation and trade as independent units, both with the old and the new world. To regulate trade between the states, a government above the states is a natural option. However, the first challenge with the establishment of such government is to balance the interests between the states, and to balance the interest between the newly established government and the existing states.
 
-#todo[continue the discussion of the challenges and the process of overcoming these challenges the new government, gradually becoming more centralized and efficient in its governance. its inertia that is difficult to change. influence of democratic ideas from the enlightenment. and how even if they start from a more centralized version, they'll separate, peaceful or with war. ]
-
-#todo[Previous models, def of republicanism, distribution of power (in the republicanism case, representation) by states, western lands (distribution of delta in resources)]
+Ideas from Ancient Greek's democracy (due to the influence of Greek culture in the Enlightenment, which further influenced many American thinkers) and Rome's republicanism (influence self-evident). The core of these is that power is determined by representation. The necessity of this result is not entirely apparent besides it seems to be rather easy for everyone to agree upon, assuming colonists are not from a centralized power. Therefore, this fact seems to be to an extent from the inertia of the old world. 
 
 #todo[specific case of lenders vs borrowers in the aftermath of the war, leading to the national currency worthless. ]
 

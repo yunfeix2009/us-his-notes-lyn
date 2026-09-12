@@ -16,7 +16,7 @@ Mercantilism is among such prior beliefs that is difficult to shift once the soc
 
 Also note that due to the difficulty in transportation between the old and the new world, it is a probable inference that there exists significant differences between the physical conditions of the colony and the mother nations (thereby the Mongols' far-reaching conquers are not colonialism).
 
-The key result of colonialism from these assumptions is that the colonizers will evolve into a different population, as defined by their shared beliefs, to the mother country. This makes sense as the first land-based plants today are far different (from biological categorization's point of view) to the water-based plant, and homo genus expanding from one geographical location to the next become different species, in The Three-Body Problem, it is described as "those first fish that climbed onto the land ceased to be fish."
+The key result of colonialism from these assumptions is that the colonists will evolve into a different population, as defined by their shared beliefs, to the mother country. This makes sense as the first land-based plants today are far different (from biological categorization's point of view) to the water-based plant, and homo genus expanding from one geographical location to the next become different species, in The Three-Body Problem, it is described as "those first fish that climbed onto the land ceased to be fish."
 
 stress from the mother nation as a factor that motivates influx of population to the colony
 
@@ -27,9 +27,9 @@ inertia from the util of rsc that influence the later developments. similar to c
 
 rsc are determined by the physical environment and the util, though some utils are too fundamental that they are taken as granted, for example digestion powers humans, making food a rsc.
 
-the break of potential barrier of the newly acquired resource to the old world would make the colonizers prosper.
+the break of potential barrier of the newly acquired resource to the old world would make the colonists prosper.
 
-the main relationship between the colonizers to the mother nation then becomes predominantly economic. Thus, the mother nation before completely losing grip of the colony would restrict its trade, by adding tax and restricting its import and export to itself as opposed to other states from the old world.
+the main relationship between the colonists to the mother nation then becomes predominantly economic. Thus, the mother nation before completely losing grip of the colony would restrict its trade, by adding tax and restricting its import and export to itself as opposed to other states from the old world.
 
 In the case of the European's colonization of the americas, the natives are quite different from the Europeans for such phenomenon to be a colonization, though, due to diseases, do not serve as effective labor resources, which is another characteristic of colonization
 
@@ -38,11 +38,11 @@ spcialize in cash crop. started with tobacco, later changed into rice and later 
 
 physics: long deep rivers that allows transportation of massive amounts of goods to the North and Europe without docks.
 
-therefore liimited towns and ports, with the exception of Charles Town (Charleston).
+therefore limited towns and ports, with the exception of Charles Town (Charleston).
 
 stratification of the "planter" class that own the resources and the servants, along with the laborers who produce (collect and process) the resources. Those who are relatively less capable of producing resources, in which case is women, would specialize in logistical tasks of keeping the colony running instead. As a result, are inferior in status due to dependency.
 
-Classifying colonizers by resources they own upon immigration, those that got "pushed" rather than "pulled" possess effectively no other resource but themselves, therefore must trade it for survival and opportunities. Often, they meet hardship rather than oppurtunities. Nonetheless, to a colony lacking laborers, they are essential.
+Classifying colonists by resources they own upon immigration, those that got "pushed" rather than "pulled" possess effectively no other resource but themselves, therefore must trade it for survival and opportunities. Often, they meet hardship rather than opportunities. Nonetheless, to a colony lacking laborers, they are essential.
 
 The case for the South is they require great amount of laborers, as shaped by their economy (determined by $e_0$ and physics of their environment). Slavery became the most efficient option upon the decline of indentured servants. The use of such is expected for the common example of this text of colonization other celestial bodies. Likey, though, robots will fill the need for labor. the occurance of scaling of slave trading seems like a stable equilibrium from its relatively long duration in the south.
 

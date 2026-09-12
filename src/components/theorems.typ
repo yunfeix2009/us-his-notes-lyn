@@ -1,7 +1,7 @@
 #import "ctheorems/lib.typ": *
 
 #let _is-web-render() = state("render-mode").get() == "web"
-#let qed-symbol = $square$
+#let qed-symbol = $arrow.ccw$
 
 #let _plain-text(value) = {
   if value == none { "" } else if type(value) == str { value } else if (
@@ -120,6 +120,7 @@
 #let claim = _wrap("Claim", "thm-claim", thm-rem-fmt, numbered: false, numbering: none)
 
 #let proof = _wrap-proof("Proof", "thm-proof", proof-pdf-fmt)
+#let cause = _wrap-proof("Cause", "thm-cause", proof-pdf-fmt)
 #let solution = _wrap-proof("Solution", "thm-solution", proof-pdf-fmt, collapsible: true)
 
 #let theorem-toc-entry(thm) = {

@@ -1,4 +1,5 @@
 // _*not yet changed from lin alg, placeholder for the formatting*_
 
-#include "closing/index.typ"
+// #include "closing/index.typ"
 
+#include "arts_humanities/index.typ"
