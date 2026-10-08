@@ -50,3 +50,50 @@ Another key consequence of the Civil War is that other regions in the world prod
 While the vast majority of the Klan’s victims were African-American, whites
 who tried to help African Americans—whether by educating them, renting land
 to them, or buying their crops—were also in danger.
+
+Their main methodologies include intimidation, violence, and murder to achieve their goals, along with intended destruction of black property.
+
+They are supported by the Southern Democrats beneath the surface, in exchange for assaults on Republicans. 
+
+#lbl(<def:Enforcement Act>, definition[The Congress passed Enforcement Act, 1870, which aimed to protect the voting rights of African Americans and curb Klan violence.])
+
+
+Although federal enforcement of anti-Klan legislation was limited, it did contribute to a decrease in the Klan’s activities in the late 1870s. However, the reason for the reduction in Klan violence was the Klan’s own success—by 1880, terrorist groups had managed to restore white supremacy throughout the South. The Klan no longer needed such organized activity to limit the political and civil rights of most African Americans. 
+
+#lbl(<def:Amnesty Act>, definition[The Congress passed the Amnesty Act in 1872, which aimed to remove the last restrictions on former Confederates and allow them to regain their political rights, who almost unanimously voted Democratic in subsequent elections.])
+
+As Southern Republicans struggled to maintain their hold
+on Reconstruction governments, widespread political corruption in the federal government weakened their party.
+During the early 1870s, scandals plagued the Grant administration. These scandals diverted public attention away
+from conditions in the South.
+
+Some honest Republicans separated from the party and formed the _Liberal Republican Party_, hoping to oust Grant in the subsequent presidential election. However, their candidate lost by a significant margin. Still, their presence weakened the Radical Republicans' grip in Reconstruction matters in the South. 
+
+#lbl(<evt:panic1873>, event[The Panic of 1873 was a financial crisis that triggered a severe economic depression in the United States, lasting until 1879.])
+Economically, investors took more debt than what they could handle, leading to financial instability and contributing to the eventual collapse of many Reconstruction-era initiatives.Smaller banks closed, and
+the stock market temporarily collapsed.
+Within a year, 89 railroads went broke. By
+1875, more than 18,000 companies had folded.
+The panic triggered a five-year economic
+depression-a period of reduced business
+activity and high unemployment—in which
+3 million workers lost their jobs.
+
+Tensions rose as the debate over greenbacks - paper money not backed by gold - heightened. The South and West investors favored a large amount of money supply to relief their debt load, while many financial experts advocated
+withdrawing the greenbacks and returning
+the nation completely to a currency backed
+by gold.
+
+Judicial branch does not favor the Radical Republicanism view for the rights that freedmen should have, often siding with states' rights and limiting federal intervention.
+
+In the 1876 election, the Republican candidate won the electoral votes though not the popular votes, first time in the U.S. history. The Democrats disputed it, leading to a compromise that effectively ended Reconstruction.
+#lbl(<evt:Compromise of 1877>, event[The Compromise of 1877 was an agreement between Republicans and Democrats that resolved the disputed 1876 presidential election. In exchange for recognizing Rutherford B. Hayes as president, Republicans agreed to withdraw federal troops from the South, effectively ending Reconstruction.])
+The price they demanded was, first of all, the withdrawal of federal troops from Louisiana and South
+Carolina—two of the three Southern states that
+Republicans still governed. Second, the Democrats wanted
+federal money to build a railroad from Texas to the West
+Coast and to improve Southern rivers, harbors, and bridges.
+Third, they wanted Hayes to appoint a conservative
+Southerner to the cabinet. 
+
+Why Reconstruction failed is a complex question worth pondering. 
