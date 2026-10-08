@@ -8,6 +8,7 @@
   children: [
     #include "rq1/index.typ"
     #include "independence/index.typ"
+    #include "india/index.typ"
     #include "government_1/index.typ"
     #include "government_2/index.typ"
     #include "ramp/index.typ"
