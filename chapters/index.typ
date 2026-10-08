@@ -16,6 +16,7 @@
 #counter(heading).update(0)
 #include "tocivilwar/index.typ"
 #include "reconstruction/index.typ"
+#include "west/index.typ"
 
 
 #set heading(numbering: "A.1")
